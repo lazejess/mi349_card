@@ -1,6 +1,7 @@
 body{
     font-family: sans-serif;
     background-color: #ccc;
+    color: #222;
 }
 
 img{
@@ -10,6 +11,6 @@ img{
 .card{
     background-color: #f3f3f3;
     margin: 0 auto;
-    width: 400px;
+    width: 300px;
     text-align: center;
 }
