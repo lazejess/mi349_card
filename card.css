@@ -29,6 +29,7 @@ h2 {
 .card .avatar{
     box-shadow: rgba(0,0,0,0.1) 0 10px 10px;
     width: 100px;
+    margin: -50px;
 }
 
 .contacts {
